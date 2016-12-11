@@ -7,3 +7,8 @@ A bit about myself. TheGuern is my nickname, given to by my best friends from hi
 
 - TheGuern
 
+2016/12/10
+
+A bit more about myself. 2.5 m power kite.
+
+- TheGuern
