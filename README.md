@@ -1,2 +1,9 @@
 # hello-world
 A repository to demonstrate creating, branching, changing, etc. REPOSITORY thingies.
+
+2016/12/10
+
+A bit about myself. TheGuern is my nickname, given to by my best friends from high school. I like to write code, bike, run on the beach, fly kites. I yearn for the Great White North, but live in America's Swampland, for now.
+
+- TheGuern
+
