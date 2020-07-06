@@ -18,5 +18,4 @@ __________________
 __________________
 
 review gitHub commit process;
-
 - TheGuern
