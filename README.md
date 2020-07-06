@@ -12,3 +12,10 @@ A bit about myself. TheGuern is my nickname, given to by my best friends from hi
 A bit more about myself. 2.5 m power kite.
 
 - TheGuern
+
+__________________
+2020-07-06 changes
+__________________
+
+review gitHub commit process;
+- TheGuern
