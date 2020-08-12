@@ -19,3 +19,9 @@ __________________
 
 review gitHub commit process;
 - TheGuern
+__________________
+2020-08-12 changes
+__________________
+
+review gitHub commit process;
+- TheGuern
